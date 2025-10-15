@@ -102,4 +102,4 @@ Indian Institute of Technology, Delhi
 
 
 ## Thank you
-#### ? {style="text-align: center"}
+ ![LinkedIn QR code for Neha](Resources/images/Neha%20QR.jpeg){width=1000}{style="display:block; margin-left:auto; margin-right:auto;"}
