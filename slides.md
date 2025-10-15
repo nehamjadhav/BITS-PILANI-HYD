@@ -102,4 +102,4 @@ Indian Institute of Technology, Delhi
 
 
 ## Thank you
-? {style="font-size:32pt"}
+#### ? {style="text-align: center"}
